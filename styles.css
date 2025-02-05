@@ -1,0 +1,20 @@
+.container-general {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.fixed-bottom {
+  position: absolute;
+  bottom: 10px;
+}
+
+#domainList {
+  font-size: 30px;
+}
+
+h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular";
+  text-decoration: underline;
+}
